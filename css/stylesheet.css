@@ -1,0 +1,25 @@
+body {
+    background-image: url(../badesemminar.jpg);
+}
+h1 {
+    font-family: Castellar;
+    position: unset;
+    color: darkblue;
+    margin-left: 785px;
+}
+p1{
+    font-family: Cambria;
+    color: darkblue;
+    font-size: 23px;
+}
+p {
+    font-family: Cambria;
+    color: darkblue;
+    font-size: 23px;
+}
+p3{
+    font-family: "Brush Script MT";
+    font-size: 12px;
+    color: whitesmoke;
+    margin-left: 10px;
+}
